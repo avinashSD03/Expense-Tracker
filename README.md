@@ -31,3 +31,8 @@ For better organization, users can filter their expenses based on a specific mon
 ### 5. Track Expenses by Year
 
 Users can track their expenses on a yearly basis. By selecting a specific year, the application will display expenses categorized by each month within the chosen year.
+
+## Tech Stacks
+### 1. React JS
+### 2. Node JS
+### 3. PostgreSQL
