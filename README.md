@@ -1,6 +1,6 @@
 # Expense Tracker Website
 
-Welcome to the Expense Tracker Website! This web application allows users to manage and track their expenses effortlessly. Here are the key features:
+Expense Tracker web application allows users to manage and track their expenses effortlessly. Here are the key features:
 
 ## Features
 
